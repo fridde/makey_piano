@@ -7,4 +7,4 @@ Simply download the zip, extract to a directory of your choice and open ```makey
 
 ## Configuration
 If you want to change the soundfiles, simply copy some of your own mp3-files into the folder ```mp3``` and rename them into ```up```,```down``` etc.
-Don't forget to reload the page after the refiguration.
+Don't forget to reload the page after the reconfiguration.
